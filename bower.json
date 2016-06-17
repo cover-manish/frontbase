@@ -1,0 +1,21 @@
+{
+  "name": "frontbone",
+  "description": "\"Creatiing REST browser interface\"",
+  "main": "gulpfile.js",
+  "authors": [
+    "Sandip Baradiya"
+  ],
+  "license": "ISC",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.6",
+    "normalize-scss": "^3.0.3"
+  }
+}

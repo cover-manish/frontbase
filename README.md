@@ -1,15 +1,31 @@
 # frontbase
-Just another bare bone setup for front-end projects.
+Just another bare bone base setup boilerplate for front-end projects .
 
-##npm package deps
   
- - Sass Compiler
- - Livereload ([Chrome extension](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en)) 
+#### **Gulp Build system**
+Powerfull CSS build system with npm gulp task runner.
 
+#### **[Post CSS](https://github.com/postcss/postcss)**
+Use future css today with post css. The repo includes powerfull post css plugins to automate css tasks and write future proof css. 
 
-##bower package deps
+In case you're not familiar with Post CSS, do check out Post CSS introduction at  https://pawelgrzybek.com/from-sass-to-postcss/ 
+
+#### **Livereload**
+[Install chrome extension](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en)
+No need to reload the page after each edit and save. simply run gulp and and enable livereload extension in chrome and page re-loads automatically. 
+
+#### **Install essentials libraries with ease**   
   
- - Jquery 2.2.4
- - Bootstrap 3.3.6
- - normalize.scss   
+ - Jquery
+ - Bootstrap
+ - normalize css   
 
+
+#### **Installation** 
+
+    $ git clone git@github.com:sandiprb/frontbase.git
+    $ npm install
+    $ bower install
+
+
+Contributions welcome :)

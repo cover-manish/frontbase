@@ -1,2 +1,4 @@
 node_modules/*
-assets/vendor/*
+static/vendor/*
+bower_components/*
+to-do.txt

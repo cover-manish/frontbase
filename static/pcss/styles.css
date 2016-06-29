@@ -1,0 +1,8 @@
+ @import '_settings'; 
+
+ body{
+ 	font-family: $font-family;
+ 	font-size: 14px;
+ 	line-height: 1.6em;
+ 	border-radius: 10px;
+ }

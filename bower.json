@@ -1,21 +1,29 @@
 {
-  "name": "frontbone",
+  "name": "frontbase",
   "description": "\"Creatiing REST browser interface\"",
   "main": "gulpfile.js",
   "authors": [
     "Sandip Baradiya"
   ],
   "license": "ISC",
-  "homepage": "index.html",
+  "homepage": "https://github.com/sandiprb/frontbase",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
+    "static/vendor/",
     "test",
     "tests"
   ],
   "devDependencies": {
-    "bootstrap": "^3.3.6",
-    "normalize-scss": "^3.0.3"
-  }
+    "bootstrap": "^3.3.6"
+  },
+  "install" : {
+   "path" : {
+    "scss": "static/vendor/css",
+    "less": "static/vendor/less",
+    "css": "static/vendor/css",
+     "js": "static/vendor/js"
+   }
+ }
 }

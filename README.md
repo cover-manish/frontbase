@@ -1,4 +1,4 @@
-# frontbone
+# frontbase
 Just another bare bone setup for front-end projects.
 
 ##npm package deps

@@ -1,2 +1,8 @@
-/*sample purpose*/
+/*Global Settings and Variables*/
 $font-family: 'Roboto',sans-serif,Arial;
+
+/* reponsive breakpoints */
+$screen-lg: 1200px;
+$screen-md: 992px;
+$screen-sm: 768px;
+$screen-xs: 500px;

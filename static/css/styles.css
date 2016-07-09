@@ -1,1 +1,7 @@
-body{font-family:Roboto,sans-serif;font-size:14px;line-height:1.6em}
+/*Global Settings and Variables*/
+/* reponsive breakpoints */
+body{
+ 	font-family: 'Roboto',sans-serif,Arial;
+ 	font-size: 14px;
+ 	line-height: 1.6em;
+ }
